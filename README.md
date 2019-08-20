@@ -1,0 +1,2 @@
+# chromium
+Dictionaries for Chromium
